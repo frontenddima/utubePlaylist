@@ -22,8 +22,8 @@ session_start();
  * <https://developers.google.com/youtube/v3/guides/authentication>
  * Please ensure that you have enabled the YouTube Data API for your project.
  */
-$OAUTH2_CLIENT_ID = '376788227486-j6nm106qr8kj8fv65ti1nkm9is75h3q3.apps.googleusercontent.com';
-$OAUTH2_CLIENT_SECRET = '4afqNmT2lWDvCxt_Z65_EGnR';
+$OAUTH2_CLIENT_ID = 'REPLACE';
+$OAUTH2_CLIENT_SECRET = 'REPLACE';
 
 $client = new Google_Client();
 $client->setClientId($OAUTH2_CLIENT_ID);
