@@ -22,7 +22,7 @@
  
 # Step 4
   
-   REPLACE these items from project insert_p.php 
+   REPLACE these items from project playlist_updates.php 
    
        1. $OAUTH2_CLIENT_ID = 'REPLACE_YOUR_CLIENT ID';
        2. $OAUTH2_CLIENT_SECRET = 'REPLACE_YOUR_CLIENT_SECRET_ID';
